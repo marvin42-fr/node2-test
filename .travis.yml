@@ -8,7 +8,7 @@ script:
     - docker images a017730/node2
 
 before_deploy:
-  - docker login -u a017730 -p Denise55
+  - docker login -u Kraygnos77 -p a2J)c=#XgShW+E7
   
 deploy:
     provider: script
